@@ -1,6 +1,3 @@
 document.addEventListener("DOMContentLoaded", () => {
-    document.querySelector('p').textContent = "This is really cool!"
-  });
-  
-
-
+    document.querySelector("#text").textContent = "This is really cool!";
+})
